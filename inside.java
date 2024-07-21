@@ -27,4 +27,9 @@ public class inside
         }
         return score;
     }
+    public static boolean toss()
+    {
+        System.out.println("Choose toss");
+        Scanner rmd = new Scanner(System.in);
+        String oddoreve = rmd.nextLine
 }
